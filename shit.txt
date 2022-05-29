@@ -1,0 +1,48 @@
+kharya
+babier jinik
+toillete
+
+kharya bagha tmchi toillete machi ims7ha baber toilleter
+
+-Ui (score / animation dial score)   ---> valide
+-kharya katjeri			---> valide
+-level lfo9 level1 to level2  1-----2	---> valide
+-camera tb3 kharya 	---> valide
+-animation dial swibe control (b hand animation mli dir click 3la scene tbda kharya katjeri) 	---> valide
+-sound coins	---> valide
+-level design ( obstacles (ikono fih babier jinik 9ar3a w ga3 brobs les kinin dial 7mam)) ->valide
+-mli twsal kharya l toillete tban animation dial dance w itfarg3o l3aybat lfo9 deja 3andi (anjibhom mn luckies birds) ---> valide
+-end level hia fin atkon shit katchta7 w f ui aytla3 Level completed w Win Particle system ---> valide
+-mli trb7 khass t7otha fo9 toillete w tbda tchta7 ---> valide
+
+
+
+-swibe control		---> valide
+-kharya mli takhd coins khasha tkbr bach tweli knira w dkhol fiha ila ila kbrat waslat noss dial toillete ayrb7 9al atkhsr
+-babier jinik ila 9ass lkharya kayn9os scale dialha w matfarg3ch -babier jinik
+
+
+
+
+
+
+
+
+
+
+
+awel 7aja khasni ntslef bach nmchi w ma3arfch mnin anraj3 floos w 500 dh
+tani 7aja mkharb9 anmchi tma anb9a anfakr mazal makhedam ma walo  w ghadi knday3 f 7yati wsalt 23 ans mazal madayr walo ...
+4 7aja had sayf  nsa chi 7aja smitha safar w la doran had sayf lbjectif dialo nl9a khedma w nwsal niveau mzn dial game dev
+w nbda carrier diali had sayf khassni nbni personalite zwina b7al les kant 3andi had sayf khassni nfar7 walidia
+
+talt 7aja ankheli moraya had machakil kolhom w anmchi 
+
+5 ankheli khedma w kolchi w anmchi w mli anrja3 Anl9a nefs wad3  w anbda a zero 
+6 marrakech skhona bzff
+7 makan7mlch nsafr w aana ma3andich floos
+
+
+
+
+
